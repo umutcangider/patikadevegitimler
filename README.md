@@ -1,0 +1,2 @@
+# patikadevegitimler
+Patikat Dev Eğitimleri
